@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI — Intelligent Forex Auto Pilot",
+  "description": "Institutional AI-assisted Forex automated trading terminal with deterministic strategy engine, strict risk management, walk-forward backtesting, and MetaTrader 5 bridge integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
